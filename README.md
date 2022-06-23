@@ -1,3 +1,5 @@
+![](https://media.giphy.com/media/11jQqqyF4S5MWY/giphy.gif)
+
 # Hello there! I'm Manuel from 🇵🇹 👋 
 
 
@@ -17,7 +19,7 @@
 
 ### Languages and Tools:
 
-
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
@@ -27,6 +29,9 @@
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;"/>
 
 
+
+</br>
+</br>
 ---
 
 
