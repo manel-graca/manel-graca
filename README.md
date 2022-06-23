@@ -17,7 +17,7 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manel.gamedev/)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="200" height="300">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="350" height="350">
 
 ### Languages and Tools:
 
