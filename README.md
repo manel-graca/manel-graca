@@ -14,9 +14,9 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/Manel_GameDev)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg)](https://twitter.com/Manel_GameDev)
 &nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuel-jo%C3%A3o-gra%C3%A7a-653aa3226/)
+[![website](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/manuel-jo%C3%A3o-gra%C3%A7a-653aa3226/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manel.gamedev/)
 
