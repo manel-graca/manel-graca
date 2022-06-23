@@ -1,10 +1,10 @@
-<img src="https://encoura.org/wp-content/uploads/2017/09/WUC-9.13.16-Banner.jpg" alt="Girl in a jacket" width="800" height="200">
+<img src="https://encoura.org/wp-content/uploads/2017/09/WUC-9.13.16-Banner.jpg" alt="Girl in a jacket" width="800" height="250">
 
 
 # Hello there! I'm Manuel from 🇵🇹 👋 
 
 
-## I'm a Unity Developer and my passion is building games
+## I'm a Game Developer currently developing in Unity Engine
 
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2022 Goals: Publish my mobile game
