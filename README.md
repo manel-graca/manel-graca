@@ -10,6 +10,8 @@
 - 🥅 2022 Goals: Publish my mobile game
 - ⚡ Fun fact: I'm learning to do some cool stuff with Arduino
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="350" height="250">
+
 ### Connect with me:
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/Manel_GameDev)
@@ -17,8 +19,6 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuel-jo%C3%A3o-gra%C3%A7a-653aa3226/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manel.gamedev/)
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="350" height="250">
 
 ### Languages and Tools:
 
@@ -34,7 +34,5 @@
 
 </br>
 </br>
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manel-graca&show_icons=true&theme=radical)
