@@ -1,5 +1,4 @@
 ![MasterHead](https://encoura.org/wp-content/uploads/2017/09/WUC-9.13.16-Banner.jpg)
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # Hello there! I'm Manuel from 🇵🇹 👋 
 
@@ -17,6 +16,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/manuel-jo%C3%A3o-gra%C3%A7a-653aa3226/)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/manel.gamedev/)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="200" height="300">
 
 ### Languages and Tools:
 
