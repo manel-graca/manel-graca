@@ -1,4 +1,5 @@
-![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://encoura.org/wp-content/uploads/2017/09/WUC-9.13.16-Banner.jpg)
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 # Hello there! I'm Manuel from 🇵🇹 👋 
 
@@ -29,14 +30,7 @@
 <img align="left" alt="Arduino" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;"/>
 
 
-
 </br>
 </br>
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manel-graca)](https://github.com/anuraghazra/github-readme-stats)
-</details>
