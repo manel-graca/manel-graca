@@ -3,7 +3,7 @@
 <h1 align="center">Hello there! I'm Manuel from 🇵🇹 👋</h1>
 
 
-## I'm a Game Developer currently developing in Unity Engine
+## I'm a Unity Developer currently working in the industry
 
 - 🌱 I’m currently learning everything 🤓
 - 🥅 2022 Goals: Publish my mobile game
