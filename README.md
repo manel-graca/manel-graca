@@ -5,9 +5,8 @@
 
 ## I'm a Unity Developer currently working in the industry
 
-- 🌱 I’m currently learning everything 🤓
-- 🥅 2022 Goals: Publish my mobile game
-- ⚡ Fun fact: I'm learning to do some cool stuff with Arduino
+- 🌱 I’m currently learning Arduino/Robotics and C++ 🤓
+- 🥅 2022 Goals: Publish my mobile game - Little Dragon Adventures
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="350" height="250">
 
