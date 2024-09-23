@@ -1,4 +1,4 @@
-<img src="https://encoura.org/wp-content/uploads/2017/09/WUC-9.13.16-Banner.jpg" alt="Girl in a jacket" width="800" height="250">
+<img src="https://cdn.midjourney.com/ab0eea5b-8b67-4b95-9338-f6f6aea83624/0_0.png" width="800" height="250">
 
 <h1 align="center">Hello there! I'm Manuel from 🇵🇹 👋</h1>
 
