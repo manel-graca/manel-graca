@@ -43,4 +43,4 @@ I'm a Unity Developer who loves coding, learning, and improving. Always explorin
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manel-graca&show_icons=true&theme=radical)
+
