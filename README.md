@@ -8,7 +8,8 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="450" height="350">
+   <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="450" height="350"> -->
+    <img src="https://i.gifer.com/J06.gif" alt="" width="450" height="350">
 </div>
 
 ### Connect with me:
