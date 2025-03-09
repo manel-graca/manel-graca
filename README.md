@@ -7,6 +7,9 @@
 ## 🎮 Unity Developer | Game Enthusiast
 I'm a Unity Developer who loves coding, learning, and improving. Always exploring new tech, and currently diving deep into C++ to expand my expertise. 🚀
 
+📱 Check out my games on the [Google Play Store](https://play.google.com/store/apps/dev?id=5166879939043699920)! 🔗
+
+
 <div align="center">
    <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="450" height="350"> -->
     <img src="https://i.gifer.com/J06.gif" alt="" width="450" height="350">
@@ -15,7 +18,7 @@ I'm a Unity Developer who loves coding, learning, and improving. Always explorin
 ### 🌍 Connect with me
 
 <div align="center">
-    <a href="https://twitter.com/Manel_GameDev">
+    <a href="https://x.com/ManelGracaGames">
         <img src="./img/twitter-dark.svg" alt="Twitter" width="30">
     </a>
     &nbsp;&nbsp;
@@ -23,7 +26,7 @@ I'm a Unity Developer who loves coding, learning, and improving. Always explorin
         <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30">
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.instagram.com/manel.gamedev/">
+    <a href="https://www.instagram.com/manuelgracagames/">
         <img src="./img/instagram-dark.svg" alt="Instagram" width="30">
     </a>
 </div>
