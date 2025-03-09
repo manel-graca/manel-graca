@@ -1,18 +1,18 @@
 <h1 align="center">Hello there! I'm Manuel from 🇵🇹 👋</h1>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhtN2xkb3dkOHJkMGl1eHU4N2U3MHU1NGd1ajZmbnBmaTltdnRsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.webp" width="800" height="440">
-</div>
+</div>-->
 
-## I'm a Unity Developer currently working in the industry
-
+## 🎮 Unity Developer | Game Enthusiast
+I'm a Unity Developer who loves coding, learning, and improving. Always exploring new tech, and currently diving deep into C++ to expand my expertise. 🚀
 
 <div align="center">
    <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="450" height="350"> -->
     <img src="https://i.gifer.com/J06.gif" alt="" width="450" height="350">
 </div>
 
-### Connect with me:
+### 🌍 Connect with me
 
 <div align="center">
     <a href="https://twitter.com/Manel_GameDev">
