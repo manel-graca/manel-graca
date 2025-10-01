@@ -11,24 +11,5 @@ Beyond games, I explore creative technologies — from app development and Ardui
 
 📱 Check out my games on the [Google Play Store](https://play.google.com/store/apps/dev?id=5166879939043699920)! 🔗
 
-
-### 🌍 Connect with me
-
-<div align="center">
-    <a href="https://x.com/ManelGracaGames">
-        <img src="./img/twitter-dark.svg" alt="Twitter" width="30">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/manuel-jo%C3%A3o-gra%C3%A7a-653aa3226/">
-        <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30">
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://www.instagram.com/manuelgracagames/">
-        <img src="./img/instagram-dark.svg" alt="Instagram" width="30">
-    </a>
-</div>
-
 <br>
 <br>
-
-
