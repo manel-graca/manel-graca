@@ -12,11 +12,6 @@ Beyond games, I explore creative technologies — from app development and Ardui
 📱 Check out my games on the [Google Play Store](https://play.google.com/store/apps/dev?id=5166879939043699920)! 🔗
 
 
-<div align="center">
-   <!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl in a jacket" width="450" height="350"> -->
-    <img src="https://i.gifer.com/J06.gif" alt="" width="450" height="350">
-</div>
-
 ### 🌍 Connect with me
 
 <div align="center">
@@ -31,15 +26,6 @@ Beyond games, I explore creative technologies — from app development and Ardui
     <a href="https://www.instagram.com/manuelgracagames/">
         <img src="./img/instagram-dark.svg" alt="Instagram" width="30">
     </a>
-</div>
-
-### Languages and Tools:
-
-<div align="left">
-    <img alt="Unity" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="padding-right:10px;"/>
-    <img alt="C#" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
-    <img alt="Git" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-    <img alt="Arduino" width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;"/>
 </div>
 
 <br>
